@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66680835092",
+    "project_id": "artistan-99",
+    "storage_bucket": "artistan-99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66680835092:android:dd54a912cf1f3ba71deb01",
+        "android_client_info": {
+          "package_name": "com.example.artistan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66680835092-87ath5af7ci3969ccllsnhi5htamgiot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcEOML_W-A3Nn084RXVwAx7-gouC76ZNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66680835092-87ath5af7ci3969ccllsnhi5htamgiot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
